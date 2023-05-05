@@ -1,5 +1,5 @@
 # poe-stash-filter
-Minimal script that creates search regex to highlight items in the stash.
+Minimal script for Path of Exile players that creates search regex to highlight items in the stash.
 
 ---
 
