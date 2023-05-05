@@ -3,15 +3,15 @@ Minimal script for Path of Exile players that creates search regex to highlight 
 
 ---
 
-The stash in Path of Exile allows RegEx expressions to highlight items that are being searched. 
-Upon typing a query in the search bar, the game scans the descriptions of all items in the current stash tab, looking for matches with the query. 
+The stash in Path of Exile allows regular expressions (RegEx) to highlight items that a player is searching for. 
+When the player types a query in the search bar, the game scans the descriptions of all items in the current stash tab, looking for matches with the query. 
 In order to highlight the searched items, the query must contain a unique sequence of characters that matches only the desired properties of an item, and ignores everything else.
 
 Let's assume that we are rolling utility flasks and only want to highlight certain T1 mods. 
 To do so, we need to find a unique short text that matches only the desired mod.
 For instance, `mad` will only match `of the Armadillo`, which is the T1 %increased armour modifier.
 
-Given a list of all mod descriptions that can appear on a flask, this script will find the shortest regex that matches only the desired mods.
+Given a list of all mod descriptions that can appear on a flask, this script will find the shortest RegEx that matches only the desired mods.
 
 First, we need to load a list of all possible mod descriptions from `data/flask_descriptions`:
 
