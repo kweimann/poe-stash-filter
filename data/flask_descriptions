@@ -1,0 +1,392 @@
+Item Class: Utility Flasks
+Rarity: Normal
+Rarity: Magic
+Superior Quicksilver Flask
+Superior Bismuth Flask
+Superior Amethyst Flask
+Superior Ruby Flask
+Superior Sapphire Flask
+Superior Topaz Flask
+Superior Gold Flask
+Superior Aquamarine Flask
+Superior Corundum Flask
+Superior Diamond Flask
+Superior Granite Flask
+Superior Jade Flask
+Superior Quartz Flask
+Superior Sulphur Flask
+Superior Iron Flask
+Superior Silver Flask
+Superior Stibnite Flask
+--------
+Quality
+Lasts Seconds
+Consumes of Charges
+Currently has Charges
+increased Movement Speed
+to all Elemental Resistances
+to Chaos Resistance
+to Fire Resistance
+less Fire Damage taken
+to Cold Resistance
+less Cold Damage taken
+to Lightning Resistance
+less Lightning Damage taken
+increased Rarity of Items found
+reduced Effect of Freeze on you
+Creates Chilled Ground on Use
+increased Stun Threshold
+increased Global Critical Strike Chance
+to Armour
+to Evasion Rating
+Phasing
+chance to Suppress Spell Damage
+increased Damage
+Creates Consecrated Ground on Use
+more Armour
+Taunts nearby Enemies on use
+to Ward
+Restores Ward on use
+Onslaught
+more Evasion Rating
+Creates a Smoke Cloud on Use
+--------
+Requirements
+Level
+--------
+Item Level
+--------
+enchant
+Gains no Charges during Effect
+increased Charge Recovery
+reduced Charges per use
+increased Duration
+increased effect
+to Maximum Charges
+Used when an adjacent Flask is used
+Reused at the end of this Flask's effect
+Used when you start Bleeding
+Used when you become Chilled
+Used when you become Frozen
+Used when you become Ignited
+Used when you become Poisoned
+Used when you become Shocked
+Used when you Block
+Used when Charges reach full
+Used when you Use a Guard Skill
+Used when you Hit a Rare or Unique Enemy, if not already in effect
+Used when you take a Savage Hit
+Used when you Use a Travel Skill
+Used when you use a Life Flask
+--------
+Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
+--------
+Wide
+to Maximum Charges
+Plentiful
+to Maximum Charges
+Bountiful
+to Maximum Charges
+Abundant
+to Maximum Charges
+Ample
+to Maximum Charges
+Constant
+increased Charge Recovery
+Continuous
+increased Charge Recovery
+Endless
+increased Charge Recovery
+Bottomless
+increased Charge Recovery
+Perpetual
+increased Charge Recovery
+Doled
+increased Charge Recovery
+reduced effect
+Provisioned
+increased Charge Recovery
+reduced effect
+Measured
+increased Charge Recovery
+reduced effect
+Allocated
+increased Charge Recovery
+reduced effect
+Rationed
+increased Charge Recovery
+reduced effect
+Medic's
+chance to gain a Flask Charge when you deal a Critical Strike
+Physician's
+chance to gain a Flask Charge when you deal a Critical Strike
+Doctor's
+chance to gain a Flask Charge when you deal a Critical Strike
+Specialist's
+chance to gain a Flask Charge when you deal a Critical Strike
+Surgeon's
+chance to gain a Flask Charge when you deal a Critical Strike
+Transgressor's
+Gain 1 Charge when you are Hit by an Enemy
+Masochist's
+Gain 2 Charges when you are Hit by an Enemy
+Flagellant's
+Gain 3 Charges when you are Hit by an Enemy
+Abecedarian's
+reduced Duration
+increased effect
+Dabbler's
+reduced Duration
+increased effect
+Alchemist's
+reduced Duration
+increased effect
+Investigator's
+increased Duration
+Analyst's
+increased Duration
+Examiner's
+increased Duration
+Clinician's
+increased Duration
+Experimenter's
+increased Duration
+Apprentice's
+reduced Charges per use
+Scholar's
+reduced Charges per use
+Practitioner's
+reduced Charges per use
+Brewer's
+reduced Charges per use
+Chemist's
+reduced Charges per use
+of the Abalone
+increased Armour during Effect
+of the Tortoise
+increased Armour during Effect
+of the Pangolin
+increased Armour during Effect
+of the Armadillo
+increased Armour during Effect
+of the Gazelle
+increased Evasion Rating during Effect
+of the Antelope
+increased Evasion Rating during Effect
+of the Ibex
+increased Evasion Rating during Effect
+of the Impala
+increased Evasion Rating during Effect
+of the Hare
+increased Movement Speed during Effect
+of the Lynx
+increased Movement Speed during Effect
+of the Cheetah
+increased Movement Speed during Effect
+of Stiffness
+increased Block and Stun Recovery during Effect
+of Bracing
+increased Block and Stun Recovery during Effect
+of Ballast
+increased Block and Stun Recovery during Effect
+of Counterpoise
+increased Block and Stun Recovery during Effect
+of Stabilisation
+increased Block and Stun Recovery during Effect
+of the Crystal
+additional Elemental Resistances during Effect
+of the Prism
+additional Elemental Resistances during Effect
+of the Kaleidoscope
+additional Elemental Resistances during Effect
+of Variegation
+additional Elemental Resistances during Effect
+of the Rainbow
+additional Elemental Resistances during Effect
+of Bloodshed
+of Attack Damage Leeched as Life during Effect
+of Gore
+of Attack Damage Leeched as Life during Effect
+of Carnage
+of Attack Damage Leeched as Life during Effect
+of Butchery
+of Attack Damage Leeched as Life during Effect
+of Bloodletting
+of Attack Damage Leeched as Life during Effect
+of Diverting
+of Spell Damage Leeched as Energy Shield during Effect
+of Depletion
+of Spell Damage Leeched as Energy Shield during Effect
+of Tapping
+of Spell Damage Leeched as Energy Shield during Effect
+of Siphoning
+of Spell Damage Leeched as Energy Shield during Effect
+of Draining
+of Spell Damage Leeched as Energy Shield during Effect
+of the Falcon
+increased Attack Speed during Effect
+of the Eagle
+increased Attack Speed during Effect
+of the Dove
+increased Attack Speed during Effect
+of the Albatross
+increased Cast Speed during Effect
+of the Hummingbird
+increased Cast Speed during Effect
+of the Horsefly
+increased Cast Speed during Effect
+of Stinging
+increased Critical Strike Chance during Effect
+of Piercing
+increased Critical Strike Chance during Effect
+of Rupturing
+increased Critical Strike Chance during Effect
+of Penetrating
+increased Critical Strike Chance during Effect
+of Incision
+increased Critical Strike Chance during Effect
+of Foisting
+chance to Freeze, Shock and Ignite during Effect
+of Imposing
+chance to Freeze, Shock and Ignite during Effect
+of Wreaking
+chance to Freeze, Shock and Ignite during Effect
+of Infliction
+chance to Freeze, Shock and Ignite during Effect
+of Composure
+Chance to Avoid being Stunned during Effect
+of Surefootedness
+Chance to Avoid being Stunned during Effect
+of Persistence
+Chance to Avoid being Stunned during Effect
+of Relentlessness
+Chance to Avoid being Stunned during Effect
+of Tenaciousness
+Chance to Avoid being Stunned during Effect
+of the Rabbit
+reduced Effect of Chill on you during Effect
+reduced Freeze Duration on you during Effect
+of the Cat
+reduced Effect of Chill on you during Effect
+reduced Freeze Duration on you during Effect
+of the Fox
+reduced Effect of Chill on you during Effect
+reduced Freeze Duration on you during Effect
+of the Sable
+reduced Effect of Chill on you during Effect
+reduced Freeze Duration on you during Effect
+of the Bear
+reduced Effect of Chill on you during Effect
+reduced Freeze Duration on you during Effect
+of the Plover
+reduced Effect of Shock on you during Effect
+of the Sandpiper
+reduced Effect of Shock on you during Effect
+of the Cormorant
+reduced Effect of Shock on you during Effect
+of the Sanderling
+reduced Effect of Shock on you during Effect
+of the Heron
+reduced Effect of Shock on you during Effect
+of the Petrel
+reduced Effect of Curses on you during Effect
+of the Mockingbird
+reduced Effect of Curses on you during Effect
+of the Curlew
+reduced Effect of Curses on you during Effect
+of the Kakapo
+reduced Effect of Curses on you during Effect
+of the Owl
+reduced Effect of Curses on you during Effect
+of the Orca
+chance to Avoid being Chilled during Effect
+chance to Avoid being Frozen during Effect
+of the Sea Lion
+chance to Avoid being Chilled during Effect
+chance to Avoid being Frozen during Effect
+of the Narwhal
+chance to Avoid being Chilled during Effect
+chance to Avoid being Frozen during Effect
+of the Beluga
+chance to Avoid being Chilled during Effect
+chance to Avoid being Frozen during Effect
+of the Seal
+chance to Avoid being Chilled during Effect
+chance to Avoid being Frozen during Effect
+of the Guppy
+chance to Avoid being Ignited during Effect
+of the Goldfish
+chance to Avoid being Ignited during Effect
+of the Carp
+chance to Avoid being Ignited during Effect
+of the Catfish
+chance to Avoid being Ignited during Effect
+of the Sunfish
+chance to Avoid being Ignited during Effect
+of Tree Moss
+chance to Avoid being Shocked during Effect
+of Turf Moss
+chance to Avoid being Shocked during Effect
+of Tooth Moss
+chance to Avoid being Shocked during Effect
+of Plume Moss
+chance to Avoid being Shocked during Effect
+of Bog Moss
+chance to Avoid being Shocked during Effect
+of the Skunk
+less Duration
+Immunity to Poison during Effect
+of the Hedgehog
+less Duration
+Immunity to Poison during Effect
+of the Opossum
+less Duration
+Immunity to Poison during Effect
+of the Conger
+less Duration
+Immunity to Shock during Effect
+of the Moray
+less Duration
+Immunity to Shock during Effect
+of the Eel
+less Duration
+Immunity to Shock during Effect
+of the Deer
+less Duration
+Immunity to Freeze and Chill during Effect
+of the Walrus
+less Duration
+Immunity to Freeze and Chill during Effect
+of the Penguin
+less Duration
+Immunity to Freeze and Chill during Effect
+of the Deer
+less Duration
+Immunity to Freeze and Chill during Effect
+of the Walrus
+less Duration
+Immunity to Freeze and Chill during Effect
+of the Penguin
+less Duration
+Immunity to Freeze and Chill during Effect
+of the Urchin
+less Duration
+Immunity to Ignite during Effect
+Removes Burning on use
+of the Mussel
+less Duration
+Immunity to Ignite during Effect
+Removes Burning on use
+of the Starfish
+less Duration
+Immunity to Ignite during Effect
+Removes Burning on use
+of the Lizard
+less Duration
+Immunity to Bleeding and Corrupted Blood during Effect
+of the Skink
+less Duration
+Immunity to Bleeding and Corrupted Blood during Effect
+of the Iguana
+less Duration
+Immunity to Bleeding and Corrupted Blood during Effect
